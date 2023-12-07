@@ -8,7 +8,7 @@ ___
 ___
 
 #### Инструкция по запуску приложения
-1. Клонируем проект по ссылки https://github.com/GulpeIT/FourthLaba.git
+1. Клонируем проект по ссылки https://github.com/GulpeIT/FiveLaba.git
 2. Открываем приложение в IDE android studio
 3. Запускаем отладку приложения
 ___
